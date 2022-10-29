@@ -17,4 +17,7 @@ B. Python for Data Analysis - Part 02
 
 C. Python for Data Analysis - Part 03
 1. Chi Square Test
-2. Linier Regression
+2. Pearson Correlation
+3. Linier Regression
+
+D. Python for Data Analysis - Assignment
