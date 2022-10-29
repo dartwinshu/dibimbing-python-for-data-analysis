@@ -16,3 +16,5 @@ B. Python for Data Analysis - Part 02
 4. Exploratory Data Analysis
 
 C. Python for Data Analysis - Part 03
+1. Chi Square Test
+2. Linier Regression
